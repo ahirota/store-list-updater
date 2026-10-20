@@ -9,9 +9,10 @@
 
 <body>
   <header>
-    <h1>PS Store List</h1>
+    <h1>PS Quick Store List</h1>
 
     <div class="actions">
+      <button id="helpButton" class="help-button" type="button">Help / How To</button>
       <button id="tick-all-button" data-ticked="true">Tick All</button>
       <button id="create-storelist-button">Generate Store List</button>
       <button id="copy-storelist-button">Copy Store List</button>
@@ -27,6 +28,78 @@
       </div>
     </div>
   </main>
+
+  <div id="helpModal" class="help-modal" aria-hidden="true">
+    <div
+      class="help-modal-content"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="helpModalTitle"
+    >
+      <div class="help-modal-header">
+        <h2 id="helpModalTitle">PS Quick Store List Guide</h2>
+        <button
+          id="closeHelpModal"
+          class="help-close"
+          type="button"
+          aria-label="Close documentation"
+        >&times;</button>
+      </div>
+
+      <div class="help-modal-body">
+        <section>
+          <h3>Getting Started</h3>
+          <ol>
+            <li>List will initialize from store JSON file.</li>
+            <li>Edit existing store names and URLs as needed.</li>
+            <li>Add, delete, or reorder stores as required.</li>
+            <li>Select the states and stores you want to include.</li>
+            <li>Click <strong class="text-blue">Generate Store List</strong>.</li>
+            <li>Copy the generated store list and CSS into your intended destination.</li>
+          </ol>
+        </section>
+
+        <section>
+          <h3>Features</h3>
+          <ul>
+            <li><strong>Inline Editing:</strong> Click a store name or URL to edit it directly.</li>
+            <li><strong>Add New Stores:</strong> Use the form to add stores to a state's list.</li>
+            <li><strong>Delete Stores:</strong> Remove individual stores from the list.</li>
+            <li><strong>Drag-and-Drop Reordering:</strong> Rearrange stores within a state.</li>
+            <li><strong>Checkbox Selection:</strong> Select individual stores or entire states for the generated output.</li>
+            <li><strong>Store List Generation:</strong> Generate a copy-paste-friendly list of selected stores and states.</li>
+            <li><strong>CSS Formatting:</strong> Includes CSS to help format the generated store list.</li>
+          </ul>
+        </section>
+
+        <section>
+          <h3>User Interface</h3>
+
+          <h4>State Selection</h4>
+          <p>Use a state's checkbox to select the state and its associated stores for inclusion in the generated output.</p>
+
+          <h4>Store Editing</h4>
+          <p>Click a store's name or URL to edit its contents directly in the list.</p>
+
+          <h4>Adding Stores</h4>
+          <p>Enter a store name and store URL in the form below the relevant state, then click <strong>Add</strong>.</p>
+
+          <h4>Deleting Stores</h4>
+          <p>Click the <strong class="text-red">&times;</strong> button next to a store to remove it.</p>
+
+          <h4>Reordering Stores</h4>
+          <p>Drag and drop store entries to change their order within a state's list.</p>
+
+          <h4>Generating the Store List</h4>
+          <p>Click <strong class="text-blue">Generate Store List</strong> to create a formatted output containing the selected states and stores, along with CSS for formatting. Copy the generated content into your target page or document.</p>
+        </section>
+      </div>
+
+      <div class="help-modal-footer">
+        <button id="doneHelpModal" type="button">Done</button>
+      </div>
+    </div>
+  </div>
   
   <script type="text/javascript" src="./script.js" defer></script>
 </body>

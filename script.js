@@ -541,6 +541,47 @@ async function tickAll() {
 }
 // ---- GET HTML END ---- //
 
+// ---- HELP MODAL START ---- //
+const helpButton = document.getElementById("helpButton");
+const helpModal = document.getElementById("helpModal");
+const closeHelpModal = document.getElementById("closeHelpModal");
+const doneHelpModal = document.getElementById("doneHelpModal");
+
+function openHelpModal() {
+  helpModal.classList.add("is-open");
+  helpModal.setAttribute("aria-hidden", "false");
+  closeHelpModal.focus();
+}
+
+function closeHelp() {
+  helpModal.classList.remove("is-open");
+  helpModal.setAttribute("aria-hidden", "true");
+  helpButton.focus();
+}
+
+helpButton.addEventListener("click", openHelpModal);
+closeHelpModal.addEventListener("click", closeHelp);
+doneHelpModal.addEventListener("click", closeHelp);
+
+// Close when clicking the backdrop.
+helpModal.addEventListener("click", (event) => {
+  if (event.target === helpModal) {
+    closeHelp();
+  }
+});
+
+// Close with the Escape key.
+document.addEventListener("keydown", (event) => {
+  if (
+    event.key === "Escape" &&
+    helpModal.classList.contains("is-open")
+  ) {
+    closeHelp();
+  }
+});
+// ---- HELP MODAL END ---- //
+
 // ---- UPDATE JSON STORELIST START ---- //
 
 // ---- UPDATE JSON STORELIST END ---- //
+

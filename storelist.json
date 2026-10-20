@@ -1,0 +1,1238 @@
+{
+  "stores": [
+    {
+      "state": "AK : Alaska",
+      "locations": [
+        {
+          "name": "ANCHORAGE FIFTH AVE",
+          "url": "https://www.pacsun.com/store/anchorage-fifth-avenue-anchorage-ak-0396"
+        },
+        {
+          "name": "DIMOND CENTER",
+          "url": "https://www.pacsun.com/store/dimond-center-anchorage-ak-0452"
+        }
+      ]
+    },
+    {
+      "state": "AL : Alabama",
+      "locations": []
+    },
+    {
+      "state": "AR : Arkansas",
+      "locations": [
+        {
+          "name": "NORTHWEST AR MALL",
+          "url": "https://www.pacsun.com/store/northwest-arkansas-mall-fayetteville-ar-0725"
+        }
+      ]
+    },
+    {
+      "state": "AZ : Arizona",
+      "locations": [
+        {
+          "name": "ARROWHEAD TOWNE CENTER",
+          "url": "https://www.pacsun.com/store/arrowhead-towne-center-glendale-az-0087"
+        },
+        {
+          "name": "CHANDLER FSHN CTR",
+          "url": "https://www.pacsun.com/store/chandler-fashion-center-chandler-az-0572"
+        },
+        {
+          "name": "TAN VILLAGE",
+          "url": "https://www.pacsun.com/store/san-tan-village-gilbert-az-1255"
+        },
+        {
+          "name": "SCOTTSDALE FSHN SQUARE",
+          "url": "https://www.pacsun.com/store/scottsdale-fashion-square-scottsdale-az-0154"
+        },
+        {
+          "name": "TEMPE MARKETPLACE",
+          "url": null
+        },
+        {
+          "name": "TUCSON MALL",
+          "url": "https://www.pacsun.com/store/tucson-mall-tucson-az-0093"
+        },
+        {
+          "name": "VLGE @ DESERT RIDGE",
+          "url": "https://www.pacsun.com/store/desert-ridge-marketplace-phoenix-az-0600"
+        }
+      ]
+    },
+    {
+      "state": "CA : California",
+      "locations": [
+        {
+          "name": "ARDEN FAIR",
+          "url": "https://www.pacsun.com/store/arden-fair-sacramento-ca-0049"
+        },
+        {
+          "name": "BREA MALL",
+          "url": "https://www.pacsun.com/store/brea-mall-brea-ca-0004"
+        },
+        {
+          "name": "CENTURY CITY",
+          "url": "https://www.pacsun.com/store/century-city-los-angeles-ca-1241"
+        },
+        {
+          "name": "CITADEL OUTLETS",
+          "url": "https://www.pacsun.com/store/citadel-commerce-ca-1168"
+        },
+        {
+          "name": "COLLECTION AT RIVERPARK",
+          "url": "https://www.pacsun.com/store/collection-at-riverpark-oxnard-ca-1247"
+        },
+        {
+          "name": "DEL AMO",
+          "url": "https://www.pacsun.com/store/del-amo-fashion-center-torrance-ca-0003"
+        },
+        {
+          "name": "DTLA",
+          "url": "https://www.pacsun.com/store/dtla-los-angeles-ca-1233"
+        },
+        {
+          "name": "FASHION ISLAND",
+          "url": "https://www.pacsun.com/store/fashion-island-newport-beach-ca-1237"
+        },
+        {
+          "name": "FASHION VALLEY",
+          "url": "https://www.pacsun.com/store/fashion-valley-san-diego-ca-1235"
+        },
+        {
+          "name": "FRESNO",
+          "url": "https://www.pacsun.com/store/fresno-fashion-fair-fresno-ca-0060"
+        },
+        {
+          "name": "GALLERIA AT TYLER",
+          "url": "https://www.pacsun.com/store/galleria-at-tyler-riverside-ca-0077"
+        },
+        {
+          "name": "GLENDALE GALLERIA",
+          "url": "https://www.pacsun.com/store/glendale-galleria-glendale-ca-0987"
+        },
+        {
+          "name": "GLRA @ ROSEVILLE",
+          "url": "https://www.pacsun.com/store/galleria-at-roseville-roseville-ca-0365"
+        },
+        {
+          "name": "HILLSDALE",
+          "url": "https://www.pacsun.com/store/hillsdale-shopping-center-san-mateo-ca-0058"
+        },
+        {
+          "name": "IRVINE SPECTRUM",
+          "url": "https://www.pacsun.com/store/irvine-spectrum-irvine-ca-0874"
+        },
+        {
+          "name": "LOS CERRITOS",
+          "url": "https://www.pacsun.com/store/los-cerritos-center-cerritos-ca-0069"
+        },
+        {
+          "name": "MISSION VALLEY",
+          "url": "https://www.pacsun.com/store/mission-valley-san-diego-ca-0419"
+        },
+        {
+          "name": "MONTCLAIR",
+          "url": "https://www.pacsun.com/store/montclair-plaza-montclair-ca-0007"
+        },
+        {
+          "name": "MONTEBELLO TWN CNTR",
+          "url": "https://www.pacsun.com/store/montebello-town-center-montebello-ca-0724"
+        },
+        {
+          "name": "MT. SHASTA MALL",
+          "url": "https://www.pacsun.com/store/mt.-shasta-mall-redding-ca-0536"
+        },
+        {
+          "name": "NORTH COUNTY FAIR",
+          "url": "https://www.pacsun.com/store/north-county-fair-escondido-ca-0699"
+        },
+        {
+          "name": "NORTHRIDGE FASHION CENTER",
+          "url": "https://www.pacsun.com/store/northridge-fashion-center-northridge-ca-0027"
+        },
+        {
+          "name": "PACIFIC VIEW MALL",
+          "url": null
+        },
+        {
+          "name": "PALM DESERT",
+          "url": "https://www.pacsun.com/store/palm-desert-town-center-palm-desert-ca-0053"
+        },
+        {
+          "name": "PASEO NUEVO",
+          "url": "https://www.pacsun.com/store/paseo-nuevo-santa-barbara-ca-0909"
+        },
+        {
+          "name": "PLAZA BONITA",
+          "url": "https://www.pacsun.com/store/plaza-bonita-national-city-ca-0873"
+        },
+        {
+          "name": "PROMENADE@TEMECULA",
+          "url": "https://www.pacsun.com/store/promenade-at-temecula-temecula-ca-0449"
+        },
+        {
+          "name": "SANTA ANITA",
+          "url": "https://www.pacsun.com/store/santa-anita-arcadia-ca-0037"
+        },
+        {
+          "name": "SANTA ROSA",
+          "url": "https://www.pacsun.com/store/santa-rosa-plaza-santa-rosa-ca-0028"
+        },
+        {
+          "name": "SERRAMONTE CENTER",
+          "url": "https://www.pacsun.com/store/serramonte-center-daly-city-ca-0791"
+        },
+        {
+          "name": "SHOPPES AT CHINO HILLS",
+          "url": "https://www.pacsun.com/store/shoppes-at-chino-hills-chino-hills-ca-0929"
+        },
+        {
+          "name": "SHOPS AT MISSION VIEJO",
+          "url": "https://www.pacsun.com/store/shops-at-mission-viejo-mission-viejo-ca-0404"
+        },
+        {
+          "name": "SUN VALLEY",
+          "url": "https://www.pacsun.com/store/sun-valley-concord-ca-0015"
+        },
+        {
+          "name": "THE OAKS",
+          "url": "https://www.pacsun.com/store/oaks-shopping-center-thousand-oaks-ca-0009"
+        },
+        {
+          "name": "THE OUTLETS AT ORANGE",
+          "url": "https://www.pacsun.com/store/the-outlets-at-orange-orange-ca-0850"
+        },
+        {
+          "name": "THIRD STREET PROMENADE",
+          "url": "https://www.pacsun.com/store/third-street-promenade-santa-monica-ca-0994"
+        },
+        {
+          "name": "TOPANGA",
+          "url": "https://www.pacsun.com/store/topanga-plaza-canoga-park-ca-0005"
+        },
+        {
+          "name": "UTC",
+          "url": "https://www.pacsun.com/store/utc-san-diego-ca-1243"
+        },
+        {
+          "name": "VALLEY FAIR",
+          "url": "https://www.pacsun.com/store/valley-fair-santa-clara-ca-0016"
+        },
+        {
+          "name": "VALLEY PLAZA",
+          "url": "https://www.pacsun.com/store/valley-plaza-shopping-center-bakersfield-ca-0026"
+        },
+        {
+          "name": "VICTORIA GARDENS",
+          "url": "https://www.pacsun.com/store/victoria-gardens-rancho-cucamonga-ca-0703"
+        },
+        {
+          "name": "VINTAGE FAIRE",
+          "url": "https://www.pacsun.com/store/vintage-faire-mall-modesto-ca-0047"
+        },
+        {
+          "name": "WEST COVINA",
+          "url": "https://www.pacsun.com/store/plaza-at-west-covina-west-covina-ca-0065"
+        },
+        {
+          "name": "WESTFIELD CULVER CITY",
+          "url": null
+        }
+      ]
+    },
+    {
+      "state": "CO : Colorado",
+      "locations": [
+        {
+          "name": "CHERRY CREEK MALL",
+          "url": "https://www.pacsun.com/store/cherry-creek-mall-denver-co-0592"
+        },
+        {
+          "name": "FLATIRON CROSSING",
+          "url": "https://www.pacsun.com/store/flatiron-crossing-broomfield-co-0435"
+        },
+        {
+          "name": "MESA MALL",
+          "url": "https://www.pacsun.com/store/mesa-mall-grand-junction-co-0713"
+        },
+        {
+          "name": "PARK MEADOWS",
+          "url": "https://www.pacsun.com/store/park-meadows-littleton-co-0214"
+        },
+        {
+          "name": "SHOPS AT CENTERRA",
+          "url": "https://www.pacsun.com/store/shops-at-centerra-loveland-co-0802"
+        }
+      ]
+    },
+    {
+      "state": "CT : Connecticut",
+      "locations": [
+        {
+          "name": "DANBURY FAIR",
+          "url": "https://www.pacsun.com/store/danbury-fair-danbury-ct-0064"
+        },
+        {
+          "name": "THE SONO COLLECTION",
+          "url": "https://www.pacsun.com/store/the-sono-collection-norwalk-ct-1240"
+        },
+        {
+          "name": "WESTFARMS",
+          "url": "https://www.pacsun.com/store/westfarms-mall-farmington-ct-0215"
+        }
+      ]
+    },
+    {
+      "state": "DE : Delaware",
+      "locations": [
+        {
+          "name": "CHRISTIANA MALL",
+          "url": "https://www.pacsun.com/store/christiana-mall-newark-de-0212"
+        }
+      ]
+    },
+    {
+      "state": "FL : Florida",
+      "locations": [
+        {
+          "name": "ALTAMONTE MALL",
+          "url": "https://www.pacsun.com/store/altamonte-mall-altamonte-springs-fl-0341"
+        },
+        {
+          "name": "AVENTURA MALL",
+          "url": "https://www.pacsun.com/store/aventura-mall,-fl-aventura-fl-1232"
+        },
+        {
+          "name": "AVENUES MALL",
+          "url": "https://www.pacsun.com/store/avenues-mall-jacksonville-fl-0347"
+        },
+        {
+          "name": "BOCA RATON",
+          "url": "https://www.pacsun.com/store/town-center-at-boca-raton-boca-raton-fl-0086"
+        },
+        {
+          "name": "BRANDON TOWN CENTER",
+          "url": "https://www.pacsun.com/store/brandon-town-center-brandon-fl-0344"
+        },
+        {
+          "name": "CITRUS PARK TWN CTR",
+          "url": "https://www.pacsun.com/store/citrus-park-tampa-fl-0330"
+        },
+        {
+          "name": "COASTLAND CENTER",
+          "url": "https://www.pacsun.com/store/coastland-center-naples-fl-0337"
+        },
+        {
+          "name": "COCONUT POINT",
+          "url": "https://www.pacsun.com/store/coconut-point-estero-fl-0981"
+        },
+        {
+          "name": "CORDOVA MALL",
+          "url": "https://www.pacsun.com/store/cordova-mall-pensacola-fl-0262"
+        },
+        {
+          "name": "COUNTRYSIDE MALL",
+          "url": "https://www.pacsun.com/store/countryside-clearwater-fl-0317"
+        },
+        {
+          "name": "FALLS SHOPPING CTR",
+          "url": "https://www.pacsun.com/store/falls-shopping-center-miami-fl-0715"
+        },
+        {
+          "name": "FLORIDA MALL",
+          "url": "https://www.pacsun.com/store/florida-mall-orlando-fl-0217"
+        },
+        {
+          "name": "GALLERIA @ FT LAUDL",
+          "url": "https://www.pacsun.com/store/galleria-at-fort-lauderdale-fort-lauderdale-fl-0799"
+        },
+        {
+          "name": "GOVERNORS SQUARE",
+          "url": "https://www.pacsun.com/store/governors-square-tallahassee-fl-0698"
+        },
+        {
+          "name": "INTERNATIONAL PLAZA",
+          "url": "https://www.pacsun.com/store/international-plaza-tampa-fl-0593"
+        },
+        {
+          "name": "MALL @ MILLENIA",
+          "url": null
+        },
+        {
+          "name": "MELBOURNE SQUARE",
+          "url": "https://www.pacsun.com/store/melbourne-square-mall-melbourne-fl-0342"
+        },
+        {
+          "name": "ORLANDO PREM OTLTS",
+          "url": "https://www.pacsun.com/store/orlando-premium-outlets-orlando-fl-1023"
+        },
+        {
+          "name": "SAWGRASS MILLS",
+          "url": "https://www.pacsun.com/store/sawgrass-mills-sunrise-fl-1001"
+        },
+        {
+          "name": "THE GARDENS",
+          "url": "https://www.pacsun.com/store/gardens-palm-beach-gardens-fl-0044"
+        },
+        {
+          "name": "THE OAKS MALL",
+          "url": "https://www.pacsun.com/store/oaks-mall-gainesville-fl-0187"
+        },
+        {
+          "name": "TREASURE CST SQUARE",
+          "url": "https://www.pacsun.com/store/treasure-coast-square-jensen-beach-fl-0380"
+        },
+        {
+          "name": "TYRONE SQUARE",
+          "url": "https://www.pacsun.com/store/tyrone-square-st-petersburg-fl-0253"
+        },
+        {
+          "name": "UNIVERSITY TOWN CENTER",
+          "url": "https://www.pacsun.com/store/university-town-center-sarasota-fl-1226"
+        },
+        {
+          "name": "VOLUSIA MALL",
+          "url": "https://www.pacsun.com/store/volusia-mall-daytona-beach-fl-0267"
+        },
+        {
+          "name": "WINTER GARDEN VLG",
+          "url": "https://www.pacsun.com/store/winter-garden-village-winter-garden-fl-1202"
+        }
+      ]
+    },
+    {
+      "state": "GA : Georgia",
+      "locations": [
+        {
+          "name": "AUGUSTA MALL",
+          "url": "https://www.pacsun.com/store/augusta-mall-augusta-ga-0618"
+        },
+        {
+          "name": "COBB",
+          "url": "https://www.pacsun.com/store/town-center-at-cobb-kennesaw-ga-0101"
+        },
+        {
+          "name": "LENOX SQUARE",
+          "url": "https://www.pacsun.com/store/lenox-square-atlanta-ga-1236"
+        },
+        {
+          "name": "MALL OF GEORGIA",
+          "url": "https://www.pacsun.com/store/mall-of-georgia-buford-ga-0413"
+        },
+        {
+          "name": "NORTH POINT",
+          "url": "https://www.pacsun.com/store/north-point-mall-alpharetta-ga-0124"
+        },
+        {
+          "name": "OGLETHORPE MALL",
+          "url": "https://www.pacsun.com/store/oglethorpe-mall-savannah-ga-0508"
+        },
+        {
+          "name": "PEACHTREE MALL",
+          "url": "https://www.pacsun.com/store/peachtree-mall-columbus-ga-0290"
+        }
+      ]
+    },
+    {
+      "state": "HI : Hawaii",
+      "locations": [
+        {
+          "name": "ALA MOANA CENTER",
+          "url": "https://www.pacsun.com/store/ala-moana-center-honolulu-hi-0769"
+        },
+        {
+          "name": "PEARLRIDGE CENTER",
+          "url": "https://www.pacsun.com/store/pearlridge-center-aiea-hi-0418"
+        }
+      ]
+    },
+    {
+      "state": "IA : Iowa",
+      "locations": [
+        {
+          "name": "JORDAN CREEK",
+          "url": "https://www.pacsun.com/store/jordan-creek-west-des-moines-ia-0752"
+        }
+      ]
+    },
+    {
+      "state": "ID : Idaho",
+      "locations": [
+        {
+          "name": "BOISE TOWNE SQUARE",
+          "url": "https://www.pacsun.com/store/boise-towne-square-boise-id-0327"
+        }
+      ]
+    },
+    {
+      "state": "IL : Illinois",
+      "locations": [
+        {
+          "name": "ALGONQUIN COMMONS",
+          "url": "https://www.pacsun.com/store/algonquin-commons-algonquin-il-0781"
+        },
+        {
+          "name": "FOX VALLEY",
+          "url": "https://www.pacsun.com/store/fox-valley-mall-aurora-il-0125"
+        },
+        {
+          "name": "MARKET PLACE S.C.",
+          "url": "https://www.pacsun.com/store/market-place-s.-c.-champaign-il-0375"
+        },
+        {
+          "name": "OLD ORCHARD",
+          "url": "https://www.pacsun.com/store/old-orchard-shopping-center-skokie-il-0140"
+        },
+        {
+          "name": "ORLAND SQUARE",
+          "url": "https://www.pacsun.com/store/orland-square-orland-park-il-0204"
+        },
+        {
+          "name": "ST. CLAIR SQUARE",
+          "url": "https://www.pacsun.com/store/st.-clair-square-fairview-heights-il-0754"
+        },
+        {
+          "name": "WOODFIELD MALL",
+          "url": "https://www.pacsun.com/store/woodfield-schaumburg-il-0155"
+        },
+        {
+          "name": "YORKTOWN SHOP CTR",
+          "url": "https://www.pacsun.com/store/yorktown-shopping-center-lombard-il-0362"
+        }
+      ]
+    },
+    {
+      "state": "IN : Indiana",
+      "locations": [
+        {
+          "name": "CASTLETON SQUARE",
+          "url": "https://www.pacsun.com/store/castleton-square-indianapolis-in-0184"
+        },
+        {
+          "name": "GREENWOOD PARK MALL",
+          "url": "https://www.pacsun.com/store/greenwood-park-mall-greenwood-in-0426"
+        }
+      ]
+    },
+    {
+      "state": "KS : Kansas",
+      "locations": [
+        {
+          "name": "OAK PARK MALL",
+          "url": "https://www.pacsun.com/store/oak-park-mall-overland-park-ks-0351"
+        },
+        {
+          "name": "TOWNE EAST SQUARE",
+          "url": "https://www.pacsun.com/store/towne-east-square-wichita-ks-0270"
+        }
+      ]
+    },
+    {
+      "state": "KY : Kentucky",
+      "locations": [
+        {
+          "name": "FAYETTE MALL",
+          "url": "https://www.pacsun.com/store/fayette-mall-lexington-ky-0506"
+        },
+        {
+          "name": "MALL OF ST. MATTHEWS",
+          "url": "https://www.pacsun.com/store/mall-st.-matthews-louisville-ky-0840"
+        }
+      ]
+    },
+    {
+      "state": "LA : Louisiana",
+      "locations": [
+        {
+          "name": "ACADIANA MALL",
+          "url": "https://www.pacsun.com/store/acadiana-mall-lafayette-la-0197"
+        },
+        {
+          "name": "LAKESIDE SHPNG CTR",
+          "url": "https://www.pacsun.com/store/lakeside-shopping-center-metairie-la-0789"
+        },
+        {
+          "name": "MALL OF LOUISIANA",
+          "url": "https://www.pacsun.com/store/mall-of-louisiana-baton-rouge-la-0264"
+        }
+      ]
+    },
+    {
+      "state": "MA : Massachusetts",
+      "locations": [
+        {
+          "name": "CAPE COD MALL",
+          "url": "https://www.pacsun.com/store/cape-cod-mall-hyannis-ma-0398"
+        },
+        {
+          "name": "BURLINGTON-MALL",
+          "url": "https://www.pacsun.com/store/burlington-mall-burlington-ma-1242"
+        },
+        {
+          "name": "HOLYOKE MALL",
+          "url": "https://www.pacsun.com/store/holyoke-mall-holyoke-ma-0202"
+        },
+        {
+          "name": "NATICK",
+          "url": "https://www.pacsun.com/store/natick-mall-natick-ma-0126"
+        },
+        {
+          "name": "NO. DARTMOUTH MALL",
+          "url": "https://www.pacsun.com/store/dartmouth-mall-north-dartmouth-ma-0559"
+        },
+        {
+          "name": "NORTHSHORE",
+          "url": "https://www.pacsun.com/store/northshore-mall-peabody-ma-0096"
+        },
+        {
+          "name": "SOUTH SHORE PLAZA",
+          "url": "https://www.pacsun.com/store/south-shore-plaza-braintree-ma-0690"
+        }
+      ]
+    },
+    {
+      "state": "MD : Maryland",
+      "locations": [
+        {
+          "name": "ANNAPOLIS MALL",
+          "url": "https://www.pacsun.com/store/annapolis-mall-annapolis-md-0173"
+        },
+        {
+          "name": "TOWSON TOWN CENTER",
+          "url": "https://www.pacsun.com/store/towson-town-center-towson-md-0447"
+        }
+      ]
+    },
+    {
+      "state": "ME : Maine",
+      "locations": [
+        {
+          "name": "MAINE MALL",
+          "url": "https://www.pacsun.com/store/maine-mall-south-portland-me-0283"
+        }
+      ]
+    },
+    {
+      "state": "MI : Michigan",
+      "locations": [
+        {
+          "name": "THE SOMERSET COLL",
+          "url": "https://www.pacsun.com/store/the-somerset-collection-north-troy-mi-1219"
+        },
+        {
+          "name": "TWELVE OAKS",
+          "url": "https://www.pacsun.com/store/twelve-oaks-mall-novi-mi-0107"
+        }
+      ]
+    },
+    {
+      "state": "MN : Minnesota",
+      "locations": [
+        {
+          "name": "MALL OF AMERICA",
+          "url": "https://www.pacsun.com/store/mall-of-america-bloomington-mn-0150"
+        },
+        {
+          "name": "RIDGEDALE CENTER",
+          "url": "https://www.pacsun.com/store/ridgedale-center-minnetonka-mn-0145"
+        },
+        {
+          "name": "ROSEDALE MALL",
+          "url": "https://www.pacsun.com/store/rosedale-center-roseville-mn-0224"
+        },
+        {
+          "name": "SHOPPES AT ARBOR LAKE",
+          "url": "https://www.pacsun.com/store/shoppes-at-arbor-lakes-maple-grove-mn-0738"
+        },
+        {
+          "name": "WOODBURY LAKES",
+          "url": "https://www.pacsun.com/store/woodbury-lakes-woodbury-mn-0901"
+        }
+      ]
+    },
+    {
+      "state": "MO : Missouri",
+      "locations": [
+        {
+          "name": "WEST COUNTY MALL",
+          "url": "https://www.pacsun.com/store/west-county-mall-st-louis-mo-0812"
+        }
+      ]
+    },
+    {
+      "state": "MS : Mississippi",
+      "locations": [
+        {
+          "name": "NORTHPARK",
+          "url": "https://www.pacsun.com/store/northpark-ridgeland-ms-0982"
+        }
+      ]
+    },
+    {
+      "state": "MT : Montana",
+      "locations": []
+    },
+    {
+      "state": "NC : North Carolina",
+      "locations": [
+        {
+          "name": "CRABTREE VALLEY",
+          "url": "https://www.pacsun.com/store/crabtree-valley-mall-raleigh-nc-0179"
+        },
+        {
+          "name": "CROSS CREEK MALL",
+          "url": "https://www.pacsun.com/store/cross-creek-mall-fayetteville-nc-0430"
+        },
+        {
+          "name": "FOUR SEASONS TWN CTR",
+          "url": "https://www.pacsun.com/store/four-seasons-towne-center-greensboro-nc-0425"
+        },
+        {
+          "name": "NORTHLAKE MALL",
+          "url": "https://www.pacsun.com/store/northlake-mall-charlotte-nc-0775"
+        },
+        {
+          "name": "STREETS AT SOUTHPOINT",
+          "url": "https://www.pacsun.com/store/streets-at-southpoint-durham-nc-1239"
+        }
+      ]
+    },
+    {
+      "state": "ND : North Dakota",
+      "locations": [
+        {
+          "name": "KIRKWOOD MALL",
+          "url": "https://www.pacsun.com/store/kirkwood-mall-bismarck-nd-0487"
+        }
+      ]
+    },
+    {
+      "state": "NE : Nebraska",
+      "locations": [
+        {
+          "name": "WESTROADS MALL",
+          "url": "https://www.pacsun.com/store/westroads-mall-omaha-ne-0279"
+        }
+      ]
+    },
+    {
+      "state": "NH : New Hampshire",
+      "locations": [
+        {
+          "name": "PHEASANT LANE",
+          "url": "https://www.pacsun.com/store/pheasant-lane-mall-nashua-nh-0163"
+        },
+        {
+          "name": "ROCKINGHAM PARK",
+          "url": "https://www.pacsun.com/store/mall-at-rockingham-park-salem-nh-0165"
+        }
+      ]
+    },
+    {
+      "state": "NJ : New Jersey",
+      "locations": [
+        {
+          "name": "AMERICAN DREAM",
+          "url": "https://www.pacsun.com/store/american-dream,-nj-east-rutherford,-nj-1231"
+        },
+        {
+          "name": "BRIDGEWATER COMMONS",
+          "url": "https://www.pacsun.com/store/bridgewater-commons-bridgewater-nj-0119"
+        },
+        {
+          "name": "CHERRY HILL MALL",
+          "url": "https://www.pacsun.com/store/cherry-hill-mall-cherry-hill-nj-0234"
+        },
+        {
+          "name": "DEPTFORD",
+          "url": "https://www.pacsun.com/store/deptford-mall-woodbury-nj-0121"
+        },
+        {
+          "name": "FREEHOLD RACEWAY",
+          "url": "https://www.pacsun.com/store/freehold-raceway-mall-freehold-nj-0081"
+        },
+        {
+          "name": "GARDEN STATE",
+          "url": "https://www.pacsun.com/store/garden-state-plaza-paramus-nj-0039"
+        },
+        {
+          "name": "HAMILTON MALL",
+          "url": "https://www.pacsun.com/store/hamilton-mall-mays-landing-nj-0230"
+        },
+        {
+          "name": "MENLO PARK MALL",
+          "url": "https://www.pacsun.com/store/menlo-park-mall-edison-nj-0295"
+        },
+        {
+          "name": "OCEAN COUNTY MALL",
+          "url": "https://www.pacsun.com/store/ocean-county-mall-toms-river-nj-0325"
+        },
+        {
+          "name": "QUAKER BRIDGE",
+          "url": "https://www.pacsun.com/store/quaker-bridge-mall-lawrence-township-nj-0073"
+        },
+        {
+          "name": "ROCKAWAY",
+          "url": "https://www.pacsun.com/store/rockaway-town-square-rockaway-nj-0079"
+        },
+        {
+          "name": "WILLOWBROOK",
+          "url": "https://www.pacsun.com/store/willowbrook-mall-wayne-nj-0090"
+        }
+      ]
+    },
+    {
+      "state": "NM : New Mexico",
+      "locations": [
+        {
+          "name": "CORONADO CENTER",
+          "url": "https://www.pacsun.com/store/coronado-center-albuquerque-nm-0141"
+        }
+      ]
+    },
+    {
+      "state": "NV : Nevada",
+      "locations": [
+        {
+          "name": "FASHION SHOW MALL",
+          "url": "https://www.pacsun.com/store/fashion-show-mall-las-vegas-nv-0657"
+        }
+      ]
+    },
+    {
+      "state": "NY : New York",
+      "locations": [
+        {
+          "name": "CROSSGATES",
+          "url": "https://www.pacsun.com/store/crossgates-mall-albany-ny-0123"
+        },
+        {
+          "name": "DESTINY USA",
+          "url": "https://www.pacsun.com/store/destiny-usa-syracuse-ny-0116"
+        },
+        {
+          "name": "EASTVIEW MALL",
+          "url": "https://www.pacsun.com/store/eastview-mall-victor-ny-1238"
+        },
+        {
+          "name": "FLATIRON 5TH AVE",
+          "url": "https://www.pacsun.com/store/flatiron-5th-ave-new-york-ny-1251"
+        },
+        {
+          "name": "KINGS PLAZA",
+          "url": "https://www.pacsun.com/store/null-brooklyn-ny-1249"
+        },
+        {
+          "name": "PALISADES CENTER",
+          "url": "https://www.pacsun.com/store/palisades-center-west-nyack-ny-0815"
+        },
+        {
+          "name": "POUGHKEEPSIE GALRIA",
+          "url": "https://www.pacsun.com/store/poughkeepsie-galleria-poughkeepsie-ny-0278"
+        },
+        {
+          "name": "QUEENS CENTER",
+          "url": "https://www.pacsun.com/store/queens-center-elmhurst-ny-1245"
+        },
+        {
+          "name": "ROOSEVELT FIELD",
+          "url": "https://www.pacsun.com/store/roosevelt-field-mall-garden-city-ny-0092"
+        },
+        {
+          "name": "SMITH HAVEN",
+          "url": "https://www.pacsun.com/store/smith-haven-mall-lake-grove-ny-0127"
+        },
+        {
+          "name": "SOHO",
+          "url": "https://www.pacsun.com/store/soho-ny-manhattan-ny-1234"
+        },
+        {
+          "name": "STATEN ISLAND MALL",
+          "url": "https://www.pacsun.com/store/null-staten-island-ny-1252"
+        },
+        {
+          "name": "THE WESTCHESTER",
+          "url": "https://www.pacsun.com/store/the-westchester-white-plains-ny-1246"
+        },
+        {
+          "name": "WALDEN GALLERIA",
+          "url": "https://www.pacsun.com/store/walden-galleria-buffalo-ny-0095"
+        }
+      ]
+    },
+    {
+      "state": "OH : Ohio",
+      "locations": [
+        {
+          "name": "BEACHWOOD PLACE",
+          "url": "https://www.pacsun.com/store/beachwood-place-beachwood-oh-1229"
+        },
+        {
+          "name": "BELDEN VILLAGE",
+          "url": "https://www.pacsun.com/store/belden-village-canton-oh-0213"
+        },
+        {
+          "name": "FRANKLIN PARK",
+          "url": "https://www.pacsun.com/store/westfield-franklin-park-toledo-oh-0209"
+        },
+        {
+          "name": "GREAT LAKES",
+          "url": "https://www.pacsun.com/store/great-lakes-mall-mentor-oh-0151"
+        },
+        {
+          "name": "KENWOOD TOWNE CNTR",
+          "url": "https://www.pacsun.com/store/kenwood-towne-center-cincinnati-oh-0228"
+        },
+        {
+          "name": "LIBERTY CENTER",
+          "url": "https://www.pacsun.com/store/liberty-center-liberty-township-oh-1228"
+        },
+        {
+          "name": "POLARIS FSHN PLACE",
+          "url": "https://www.pacsun.com/store/polaris-fashion-place-columbus-oh-0567"
+        },
+        {
+          "name": "SOUTHPARK MALL",
+          "url": "https://www.pacsun.com/store/southpark-center-strongsville-oh-0243"
+        },
+        {
+          "name": "SUMMIT MALL",
+          "url": "https://www.pacsun.com/store/summit-mall-akron-oh-0218"
+        },
+        {
+          "name": "TOWN CTR AT EASTON",
+          "url": "https://www.pacsun.com/store/town-center-at-easton-columbus-oh-0371"
+        }
+      ]
+    },
+    {
+      "state": "OK : Oklahoma",
+      "locations": [
+        {
+          "name": "PENN SQUARE",
+          "url": "https://www.pacsun.com/store/penn-square-mall-oklahoma-city-ok-0196"
+        },
+        {
+          "name": "WOODLAND HILLS MALL",
+          "url": "https://www.pacsun.com/store/woodland-hills-mall-tulsa-ok-0502"
+        }
+      ]
+    },
+    {
+      "state": "OR : Oregon",
+      "locations": [
+        {
+          "name": "CLACKAMAS TOWNE CTR",
+          "url": "https://www.pacsun.com/store/clackamas-town-center-portland-or-0312"
+        },
+        {
+          "name": "WASHINGTON SQUARE",
+          "url": "https://www.pacsun.com/store/washington-square-tigard-or-1212"
+        }
+      ]
+    },
+    {
+      "state": "PA : Pennsylvania",
+      "locations": [
+        {
+          "name": "KING OF PRUSSIA",
+          "url": "https://www.pacsun.com/store/king-of-prussia-king-of-prussia-pa-0220"
+        },
+        {
+          "name": "LEHIGH VALLEY MALL",
+          "url": "https://www.pacsun.com/store/lehigh-valley-mall-whitehall-pa-0246"
+        },
+        {
+          "name": "MALL AT ROBINSON",
+          "url": "https://www.pacsun.com/store/mall-at-robinson-pittsburgh-pa-0415"
+        },
+        {
+          "name": "PARK CITY CENTER",
+          "url": "https://www.pacsun.com/store/park-city-center-lancaster-pa-0229"
+        },
+        {
+          "name": "ROSS PARK MALL",
+          "url": "https://www.pacsun.com/store/ross-park-mall-pittsburgh-pa-0454"
+        },
+        {
+          "name": "SOUTH HILLS VILLAGE",
+          "url": "https://www.pacsun.com/store/south-hills-village-pittsburgh-pa-0099"
+        },
+        {
+          "name": "WILLOW GROVE",
+          "url": "https://www.pacsun.com/store/willow-grove-park-willow-grove-pa-0132"
+        }
+      ]
+    },
+    {
+      "state": "PR : Puerto Rico",
+      "locations": [
+        {
+          "name": "LAS CATALINAS MALL",
+          "url": "https://www.pacsun.com/store/las-catalinas-mall-caguas-pr-0778"
+        },
+        {
+          "name": "MAYAQUEZ MALL",
+          "url": "https://www.pacsun.com/store/mayaguez-mall-mayaguez-pr-0710"
+        },
+        {
+          "name": "PLAZA DEL CARIBE",
+          "url": ""
+        },
+        {
+          "name": "PLAZA LAS AMERICAS",
+          "url": "https://www.pacsun.com/store/plaza-las-americas-hatorey-pr-0663"
+        }
+      ]
+    },
+    {
+      "state": "RI : Rhode Island",
+      "locations": [
+        {
+          "name": "PROVIDENCE PLACE",
+          "url": "https://www.pacsun.com/store/providence-place-providence-ri-0216"
+        }
+      ]
+    },
+    {
+      "state": "SC : South Carolina",
+      "locations": [
+        {
+          "name": "HAYWOOD",
+          "url": "https://www.pacsun.com/store/haywood-mall-greenville-sc-0158"
+        }
+      ]
+    },
+    {
+      "state": "SD : South Dakota",
+      "locations": [
+        {
+          "name": "EMPIRE MALL",
+          "url": "https://www.pacsun.com/store/empire-mall-sioux-falls-sd-1254"
+        }
+      ]
+    },
+    {
+      "state": "TN : Tennessee",
+      "locations": [
+        {
+          "name": "WEST TOWN MALL",
+          "url": "https://www.pacsun.com/store/west-town-mall-knoxville-tn-0188"
+        }
+      ]
+    },
+    {
+      "state": "TX : Texas",
+      "locations": [
+        {
+          "name": "BARTON CREEK SQUARE",
+          "url": "https://www.pacsun.com/store/barton-creek-square-austin-tx-0263"
+        },
+        {
+          "name": "BAYBROOK MALL",
+          "url": "https://www.pacsun.com/store/baybrook-mall-friendswood-tx-0891"
+        },
+        {
+          "name": "CIELO VISTA MALL",
+          "url": "https://www.pacsun.com/store/cielo-vista-mall-el-paso-tx-0254"
+        },
+        {
+          "name": "DALLAS GALLERIA",
+          "url": "https://www.pacsun.com/store/galleria-dallas-dallas-tx-0864"
+        },
+        {
+          "name": "DEERBROOK MALL",
+          "url": "https://www.pacsun.com/store/deerbrook-mall-humble-tx-0585"
+        },
+        {
+          "name": "FIRST COLONY",
+          "url": "https://www.pacsun.com/store/first-colony-mall-sugar-land-tx-0201"
+        },
+        {
+          "name": "HOUSTON GALLERIA",
+          "url": "https://www.pacsun.com/store/houston-galleria-houston-tx-0175"
+        },
+        {
+          "name": "HULEN MALL",
+          "url": "https://www.pacsun.com/store/hulen-mall-fort-worth-tx-0171"
+        },
+        {
+          "name": "KILLEEN MALL",
+          "url": "https://www.pacsun.com/store/killeen-mall-killeen-tx-0562"
+        },
+        {
+          "name": "LA PALMERA MALL",
+          "url": "https://www.pacsun.com/store/la-palmera-mall-corpus-christi-tx-0352"
+        },
+        {
+          "name": "LA PLAZA CENTER",
+          "url": "https://www.pacsun.com/store/la-plaza-mall-mc-allen-tx-0501"
+        },
+        {
+          "name": "LAKELINE MALL",
+          "url": "https://www.pacsun.com/store/lakeline-mall-cedar-park-tx-0199"
+        },
+        {
+          "name": "MEMORIAL CITY MALL",
+          "url": "https://www.pacsun.com/store/memorial-city-mall-houston-tx-0680"
+        },
+        {
+          "name": "MIDLAND PARK MALL",
+          "url": "https://www.pacsun.com/store/midland-park-mall-midland-tx-0329"
+        },
+        {
+          "name": "NORTH EAST MALL",
+          "url": "https://www.pacsun.com/store/north-east-mall-hurst-tx-0785"
+        },
+        {
+          "name": "NORTH STAR MALL",
+          "url": "https://www.pacsun.com/store/north-star-mall-san-antonio-tx-1213"
+        },
+        {
+          "name": "PARKS AT ARLINGTON",
+          "url": "https://www.pacsun.com/store/parks-at-arlington-arlington-tx-0180"
+        },
+        {
+          "name": "SHOPS AT LA CANTERA",
+          "url": "https://www.pacsun.com/store/shops-at-la-cantera-san-antonio-tx-0768"
+        },
+        {
+          "name": "SOUTH PARK MALL",
+          "url": "https://www.pacsun.com/store/south-park-mall-san-antonio-tx-0625"
+        },
+        {
+          "name": "SOUTH PLAINS MALL",
+          "url": "https://www.pacsun.com/store/south-plains-mall-lubbock-tx-0288"
+        },
+        {
+          "name": "STONEBRIAR CENTRE",
+          "url": "https://www.pacsun.com/store/stonebriar-centre-frisco-tx-0499"
+        },
+        {
+          "name": "THE WOODLANDS",
+          "url": "https://www.pacsun.com/store/woodlands-mall-the-woodlands-tx-0170"
+        },
+        {
+          "name": "WESTGATE MALL",
+          "url": "https://www.pacsun.com/store/westgate-mall-amarillo-tx-0370"
+        }
+      ]
+    },
+    {
+      "state": "UT : Utah",
+      "locations": [
+        {
+          "name": "FASHION PLACE MALL",
+          "url": "https://www.pacsun.com/store/fashion-place-mall-murray-ut-0902"
+        },
+        {
+          "name": "LAYTON HILLS MALL",
+          "url": "https://www.pacsun.com/store/layton-hills-mall-layton-ut-0436"
+        },
+        {
+          "name": "RED CLIFFS MALL",
+          "url": "https://www.pacsun.com/store/red-cliffs-mall-st-george-ut-0458"
+        },
+        {
+          "name": "SOUTH TOWNE CENTER",
+          "url": "https://www.pacsun.com/store/south-towne-center-sandy-ut-0296"
+        },
+        {
+          "name": "UNIVERSITY MALL",
+          "url": "https://www.pacsun.com/store/university-mall-orem-ut-0492"
+        }
+      ]
+    },
+    {
+      "state": "VA : Virginia",
+      "locations": [
+        {
+          "name": "CHESTERFLD TWN CTR",
+          "url": "https://www.pacsun.com/store/chesterfield-towne-center-richmond-va-0259"
+        },
+        {
+          "name": "DULLES TOWNE CENTER",
+          "url": "https://www.pacsun.com/store/dulles-towne-center-sterling-va-0358"
+        },
+        {
+          "name": "FAIR OAKS",
+          "url": "https://www.pacsun.com/store/fair-oaks-fairfax-va-0134"
+        },
+        {
+          "name": "LYNNHAVEN",
+          "url": "https://www.pacsun.com/store/lynnhaven-mall-virginia-beach-va-0160"
+        },
+        {
+          "name": "SHORT PUMP TWN CNTR",
+          "url": "https://www.pacsun.com/store/short-pump-town-center-henrico-va-0655"
+        },
+        {
+          "name": "TYSONS CORNER",
+          "url": "https://www.pacsun.com/store/tysons-corner-center-mclean-va-0083"
+        },
+        {
+          "name": "VALLEY VIEW MALL",
+          "url": "https://www.pacsun.com/store/valley-view-mall-roanoke-va-0440"
+        }
+      ]
+    },
+    {
+      "state": "VT : Vermont",
+      "locations": []
+    },
+    {
+      "state": "WA : Washington",
+      "locations": [
+        {
+          "name": "ALDERWOOD",
+          "url": "https://www.pacsun.com/store/alderwood-mall-lynnwood-wa-0076"
+        },
+        {
+          "name": "BELLEVUE",
+          "url": "https://www.pacsun.com/store/bellevue-square-bellevue-wa-0061"
+        },
+        {
+          "name": "SOUTH HILL MALL",
+          "url": "https://www.pacsun.com/store/south-hill-mall-puyallup-wa-0434"
+        },
+        {
+          "name": "SOUTHCENTER",
+          "url": "https://www.pacsun.com/store/southcenter-mall-tukwila-wa-0530"
+        },
+        {
+          "name": "SPOKANE VALLEY MALL",
+          "url": "https://www.pacsun.com/store/spokane-valley-mall-spokane-wa-0494"
+        },
+        {
+          "name": "TACOMA",
+          "url": "https://www.pacsun.com/store/tacoma-mall-tacoma-wa-0075"
+        },
+        {
+          "name": "VANCOUVER MALL",
+          "url": "https://www.pacsun.com/store/vancouver-mall-vancouver-wa-0712"
+        }
+      ]
+    },
+    {
+      "state": "WI : Wisconsin",
+      "locations": [
+        {
+          "name": "FOX RIVER",
+          "url": "https://www.pacsun.com/store/fox-river-mall-appleton-wi-0172"
+        },
+        {
+          "name": "MAYFAIR MALL",
+          "url": "https://www.pacsun.com/store/mayfair-mall-wauwatosa-wi-0529"
+        }
+      ]
+    },
+    {
+      "state": "WV : West Virginia",
+      "locations": []
+    },
+    {
+      "state": "WY : Wyoming",
+      "locations": []
+    }
+  ]
+}

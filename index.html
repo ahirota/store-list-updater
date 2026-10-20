@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Store List</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <header>
+    <h1>PS Store List</h1>
+
+    <div class="actions">
+      <button id="tick-all-button" data-ticked="true">Tick All</button>
+      <button id="create-storelist-button">Generate Store List</button>
+      <button id="copy-storelist-button">Copy Store List</button>
+      <!-- <button id="update-storelist-button">Update Store List</button> -->
+    </div>
+  </header>
+
+  <main>
+    <div id="store-list" class="state-wrapper"></div>
+    <div id="store-list-textarea-wrapper" >
+      <div class="container">
+        <textarea id="store-list-textarea" readonly placeholder="Store list will generate here..."></textarea>
+      </div>
+    </div>
+  </main>
+  
+  <script type="text/javascript" src="./script.js" defer></script>
+</body>
+
+</html>

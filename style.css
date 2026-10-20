@@ -1,0 +1,275 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  background: #f4f4f4;
+  margin: 0;
+}
+
+.container {
+  background: #fff;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.form {
+  display: flex;
+  gap: 8px;
+}
+
+.form input {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+}
+
+.form input[data-field="storeName"] {
+  flex: 0 1 31.5%;
+}
+
+.form button {
+  padding: 8px 12px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 16px;
+  margin-bottom: 8px;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: grab;
+}
+
+li.dragging {
+  opacity: 0.4;
+  background: #e2e6ea;
+}
+
+main {
+  display: flex;
+  flex-flow: row nowrap;
+  gap: 10px;
+  padding: 30px 10px;
+}
+
+.state-wrapper {
+  flex: 0 1 60%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#store-list-textarea-wrapper {
+  flex: 0 1 40%;
+}
+
+#store-list-textarea-wrapper > .container {
+  position: sticky;
+  top: 70px;
+  z-index: 1000;
+}
+
+#store-list-textarea-wrapper textarea {
+  display: block;
+  width: calc(100% - 6px);
+  max-width: calc(50vw - 40px);
+  min-height: 300px;
+}
+
+.state-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+}
+
+.delete-btn {
+  padding: 0;
+  background: none;
+  border: none;
+  color: #dc3545;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.editable-list-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+  list-style-type: none;
+}
+
+.editable-list-item .edit-field {
+  padding: 8px;
+  font-size: 12px;
+}
+
+.editable-list-item .store-name {
+  flex: 1 1 28%;
+}
+
+.editable-list-item .store-link {
+  flex: 1 1 63%;
+}
+
+/* Minimalist look for native inputs */
+.editable-list-item input {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Clear visual cue for contenteditable text fields */
+.edit-field[contenteditable="true"]:focus {
+  outline: 2px solid #007bff;
+  background-color: #f8f9fa;
+  border-radius: 2px;
+}
+
+
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+
+  padding: 10px;
+
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #111827;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.actions button {
+  padding: 0.625rem 1rem;
+
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+
+  background: #ffffff;
+  color: #374151;
+
+  font-size: 0.875rem;
+  font-weight: 500;
+
+  cursor: pointer;
+  transition:
+    background-color 0.15s ease,
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.actions button:hover {
+  background: #f9fafb;
+  border-color: #9ca3af;
+}
+
+.actions button:focus-visible {
+  outline: 2px solid #2563eb;
+  outline-offset: 2px;
+}
+
+/* Primary action */
+#create-storelist-button {
+  background: #2563eb;
+  border-color: #2563eb;
+  color: #ffffff;
+}
+
+#create-storelist-button:hover {
+  background: #1d4ed8;
+  border-color: #1d4ed8;
+}
+
+/* Smaller screens */
+@media (max-width: 640px) {
+  header {
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 0.875rem 1rem;
+  }
+
+  .actions {
+    width: 100%;
+  }
+
+  .actions button {
+    flex: 1;
+  }
+}
+
+.store-list-toast {
+  position: fixed;
+  right: 1.5rem;
+  bottom: 1.5rem;
+  z-index: 9999;
+
+  padding: 0.75rem 1rem;
+
+  background: #1f2937;
+  color: #ffffff;
+
+  border-radius: 6px;
+
+  font-size: 0.875rem;
+  font-weight: 500;
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+
+  opacity: 0;
+  transform: translateY(10px);
+
+  transition:
+    opacity 0.3s ease,
+    transform 0.3s ease;
+}
+
+.store-list-toast.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.store-list-toast.error {
+  background: #dc2626;
+}

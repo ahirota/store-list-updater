@@ -236,7 +236,7 @@
         },
         {
           "name": "WESTFIELD CULVER CITY",
-          "url": null
+          "url": "https://www.pacsun.com/store/westfield-culver-city-ca-1244"
         }
       ]
     },
@@ -355,10 +355,6 @@
           "url": "https://www.pacsun.com/store/international-plaza-tampa-fl-0593"
         },
         {
-          "name": "MALL @ MILLENIA",
-          "url": null
-        },
-        {
           "name": "MELBOURNE SQUARE",
           "url": "https://www.pacsun.com/store/melbourne-square-mall-melbourne-fl-0342"
         },
@@ -373,6 +369,10 @@
         {
           "name": "THE GARDENS",
           "url": "https://www.pacsun.com/store/gardens-palm-beach-gardens-fl-0044"
+        },
+        {
+          "name": "THE MALL AT MILLENIA",
+          "url": "https://www.pacsun.com/store/mall-at-millenia-orlando-fl-1250"
         },
         {
           "name": "THE OAKS MALL",
@@ -561,12 +561,12 @@
       "state": "MA : Massachusetts",
       "locations": [
         {
-          "name": "CAPE COD MALL",
-          "url": "https://www.pacsun.com/store/cape-cod-mall-hyannis-ma-0398"
-        },
-        {
           "name": "BURLINGTON-MALL",
           "url": "https://www.pacsun.com/store/burlington-mall-burlington-ma-1242"
+        },
+        {
+          "name": "CAPE COD MALL",
+          "url": "https://www.pacsun.com/store/cape-cod-mall-hyannis-ma-0398"
         },
         {
           "name": "HOLYOKE MALL",
@@ -820,7 +820,11 @@
         },
         {
           "name": "KINGS PLAZA",
-          "url": "https://www.pacsun.com/store/null-brooklyn-ny-1249"
+          "url": "https://www.pacsun.com/store/kings-plaza-brooklyn-ny-1249"
+        },
+        {
+          "name": "MALL AT BAY PLAZA",
+          "url": "https://www.pacsun.com/store/mall-at-bay-plaza-brooklyn-ny-1256"
         },
         {
           "name": "PALISADES CENTER",
@@ -848,7 +852,7 @@
         },
         {
           "name": "STATEN ISLAND MALL",
-          "url": "https://www.pacsun.com/store/null-staten-island-ny-1252"
+          "url": "https://www.pacsun.com/store/staten-island-mall-staten-island-ny-1252"
         },
         {
           "name": "THE WESTCHESTER",
@@ -1165,6 +1169,10 @@
         {
           "name": "SHORT PUMP TWN CNTR",
           "url": "https://www.pacsun.com/store/short-pump-town-center-henrico-va-0655"
+        },
+        {
+          "name": "SPRINGFIELD TOWN CENTER",
+          "url": "https://www.pacsun.com/store/springfield-town-center-springfield-va-1257"
         },
         {
           "name": "TYSONS CORNER",

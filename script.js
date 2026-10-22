@@ -286,6 +286,7 @@ function createStoreList() {
     }
 
     const stateName = stateTitle.textContent
+      .trim()
       .replace(/^[A-Z]{2}\s*:\s*/, "")
       .trim();
 
@@ -375,10 +376,14 @@ function formatStoreListHTML(wrapper) {
   lines.push('');
   lines.push('    .store-list {');
   lines.push('        columns: 3;');
+  lines.push('        column-gap: 40px;');
   lines.push('    }');
   lines.push('');
   lines.push('    .store-state {');
   lines.push('        margin-bottom: 40px;');
+  lines.push('        break-inside: avoid;');
+  lines.push('        display: inline-block;');
+  lines.push('        width: 100%;');
   lines.push('    }');
   lines.push('');
   lines.push('    .store-state-header {');

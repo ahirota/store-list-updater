@@ -104,6 +104,11 @@ main {
   text-transform: uppercase;
 }
 
+.state-tick {
+  width: 20px;
+  height: 20px;
+}
+
 .delete-btn {
   padding: 0;
   background: none;
@@ -135,12 +140,15 @@ main {
 }
 
 /* Minimalist look for native inputs */
-.editable-list-item input {
+.editable-list-item input[type="checkbox"] {
   margin: 0;
   padding: 0;
   font-size: 12px;
   border: 1px solid #ccc;
   border-radius: 4px;
+  width: 20px;
+  height: 20px;
+  flex: 0 0 auto;
 }
 
 /* Clear visual cue for contenteditable text fields */
